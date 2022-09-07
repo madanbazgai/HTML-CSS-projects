@@ -1,0 +1,45 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+table{
+    border: 3px solid black;
+    width: 600;
+}
+
+img{
+    width: 100%;
+    height: 200px;
+}
+.date{
+    font-weight: bold;
+}
+th,td{
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+th{
+    color: white;
+    background-color: blue;
+}
+
+#sat{
+   background-color: red;
+}
+
+.vacation{
+    color: blue;
+    background: red;
+}
+
+.festive{
+    padding: 0px;
+    width: 30%;
+    height: 100px;
+}
+
+.cp{
+    text-align: right;
+    font-family: serif;
+}
