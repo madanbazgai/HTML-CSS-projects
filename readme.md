@@ -8,3 +8,4 @@
 | 04  | Wildlife photography | [Live Demo](https://madanbajgai.github.io/HTML-CSS-projects/Wildlifephotogarphy/) |
 | 05  | Wood Mart            | [Live Demo](https://madanbajgai.github.io/HTML-CSS-projects/Woodmart/)            |
 | 06  | Responsive Portfolio | [Live Demo](https://madanbajgai.github.io/HTML-CSS-projects/ResponsivePortfolio/) |
+| 06  | Nepali Calendar      | [Live Demo](https://madanbajgai.github.io/HTML-CSS-projects/NepaliCalendar/)      |
